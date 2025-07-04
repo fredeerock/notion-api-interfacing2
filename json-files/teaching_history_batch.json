@@ -1,0 +1,520 @@
+[
+  {
+    "Name": "ART 4030.1 - Ind. Study Studio Art",
+    "Description": "Independent Study Studio Art course with 1 enrolled student during Spring 2018 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2018-01-01"
+  },
+  {
+    "Name": "ART 4220.1 - Advanced Moving Image",
+    "Description": "Advanced Moving Image course with 15 enrolled students during Spring 2018 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2018-01-01"
+  },
+  {
+    "Name": "ART 4290.1 - Digital Art Synthesis",
+    "Description": "Digital Art Synthesis course with 12 enrolled students during Spring 2018 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2018-01-01"
+  },
+  {
+    "Name": "ART 8000.4 - Thesis Research",
+    "Description": "Thesis Research supervision with 1 enrolled student during Spring 2018 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2018-01-01"
+  },
+  {
+    "Name": "ART 2220.1 - Moving Image",
+    "Description": "Moving Image course with 22 enrolled students during Fall 2017 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2017-09-01"
+  },
+  {
+    "Name": "ART 4230.1 - Virtual Space and Motion",
+    "Description": "Virtual Space and Motion course with 25 enrolled students during Fall 2017 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2017-09-01"
+  },
+  {
+    "Name": "ART 7030.4 - Ind. Study Grad",
+    "Description": "Independent Study Graduate course with 1 enrolled student during Fall 2017 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2017-09-01"
+  },
+  {
+    "Name": "ART 7255.1 - Digital Art Seminar",
+    "Description": "Digital Art Seminar course with 5 enrolled students during Fall 2017 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2017-09-01"
+  },
+  {
+    "Name": "ART 2220.1 - Moving Image",
+    "Description": "Moving Image course with 1 enrolled student during Summer 2017 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2017-06-01"
+  },
+  {
+    "Name": "ART 4240.1 - Animation Innovation",
+    "Description": "Animation Innovation course with 10 enrolled students during Summer 2017 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2017-06-01"
+  },
+  {
+    "Name": "ART 4280.1 - Digital Art Practicum",
+    "Description": "Digital Art Practicum course with 1 enrolled student during Summer 2017 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2017-06-01"
+  },
+  {
+    "Name": "ART 7250.1 - Digital Art Praxis",
+    "Description": "Digital Art Praxis course with 1 enrolled student during Summer 2017 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2017-06-01"
+  },
+  {
+    "Name": "ART 4220.1 - Advanced Moving Image",
+    "Description": "Advanced Moving Image course with 22 enrolled students during Spring 2016 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2016-01-01"
+  },
+  {
+    "Name": "ART 4290.1 - Digital Art Synthesis",
+    "Description": "Digital Art Synthesis course with 12 enrolled students during Spring 2016 semester. Course designated as Interdisciplinary (ID).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2016-01-01"
+  },
+  {
+    "Name": "ART 7250.1 - Digital Art Praxis",
+    "Description": "Digital Art Praxis course with 3 enrolled students during Spring 2016 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2016-01-01"
+  },
+  {
+    "Name": "ART 4230.1 - Virtual Space and Motion",
+    "Description": "Virtual Space and Motion course with 17 enrolled students during Fall 2015 semester. Course designated as Communication Intensive (CI). Instructor evaluation score: 5.000 (Department average: 4.453).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-09-01"
+  },
+  {
+    "Name": "ART 4240.2 - Animation and Narrative",
+    "Description": "Animation and Narrative course with 18 enrolled students during Fall 2015 semester. Instructor evaluation score: 4.308 (Department average: 4.453).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-09-01"
+  },
+  {
+    "Name": "ART 7250.2 - Digital Art Praxis",
+    "Description": "Digital Art Praxis course with 2 enrolled students during Fall 2015 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-09-01"
+  },
+  {
+    "Name": "ART 7255.2 - Digital Art Seminar",
+    "Description": "Digital Art Seminar course with 8 enrolled students during Fall 2015 semester. Course designated as Interdisciplinary (ID).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-09-01"
+  },
+  {
+    "Name": "ART 8000 - Thesis Research",
+    "Description": "Thesis Research supervision with 1 enrolled student during Fall 2015 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-09-01"
+  },
+  {
+    "Name": "ART 2220.1 - Moving Image",
+    "Description": "Moving Image course with 3 enrolled students during Summer 2015 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-06-01"
+  },
+  {
+    "Name": "ART 4240.1 - Topics in Digital Art",
+    "Description": "Topics in Digital Art course with 4 enrolled students during Summer 2015 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-06-01"
+  },
+  {
+    "Name": "ART 7250.1 - Digital Art Praxis",
+    "Description": "Digital Art Praxis course with 2 enrolled students during Summer 2015 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-06-01"
+  },
+  {
+    "Name": "ART 4240.2 / ARTH 4420.1 - Wearable Technology",
+    "Description": "Wearable Technology cross-listed course with 6 ART students and 20 ARTH students during Spring 2015 semester. Course designated as Interdisciplinary (ID) and Cross-registered (CR).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "ART 4020.1 - Actual / Virtual Lighting",
+    "Description": "Actual / Virtual Lighting course with 18 enrolled students during Spring 2015 semester. Course designated as Interdisciplinary (ID).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "ART 4030.1 - Digital Art Senior Project",
+    "Description": "Digital Art Senior Project course with 13 enrolled students during Spring 2015 semester. Course designated as Communication Intensive (CI). Instructor evaluation score: 4.875 (Department average: 4.425).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "ART 7250.1 - Digital Art Praxis",
+    "Description": "Digital Art Praxis course with 3 enrolled students during Spring 2015 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "ART 4030.2 - Independent Study",
+    "Description": "Independent Study course with 2 enrolled students during Spring 2015 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "ART 4020.4 - Experiments in 3D Graphics",
+    "Description": "Experiments in 3D Graphics course with 1 enrolled student during Summer 2014 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2014-06-01"
+  },
+  {
+    "Name": "ART 4055.5 - Digital Art IV",
+    "Description": "Digital Art IV course with 5 enrolled students during Summer 2014 semester. Course designated as Communication Intensive (CI) and Interdisciplinary (ID).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2014-06-01"
+  },
+  {
+    "Name": "ART 4030.3 - Independent Study",
+    "Description": "Independent Study course with 3 enrolled students during Fall 2014 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2014-09-01"
+  },
+  {
+    "Name": "ART 4230.1 - Virtual Space & Motion",
+    "Description": "Virtual Space & Motion course with 10 enrolled students during Fall 2014 semester. Course designated as Interdisciplinary (ID). Instructor evaluation score: 4.625 (Department average: 4.682).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2014-09-01"
+  },
+  {
+    "Name": "ART 7255.2 - Digital Art Seminar",
+    "Description": "Digital Art Seminar course with 6 enrolled students during Fall 2014 semester. Course designated as Interdisciplinary (ID).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2014-09-01"
+  },
+  {
+    "Name": "CSC 2700.1 - Intro to Digital Media",
+    "Description": "Introduction to Digital Media course with 18 enrolled students during Spring 2014 semester. Course designated as Interdisciplinary (ID).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2014-01-01"
+  },
+  {
+    "Name": "ART 4020.9 - Special Topics Studio",
+    "Description": "Special Topics Studio course with 1 enrolled student during Spring 2014 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2014-01-01"
+  },
+  {
+    "Name": "ART 4030.1 - Digital Art Senior Project",
+    "Description": "Digital Art Senior Project course with 13 enrolled students during Spring 2014 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2014-01-01"
+  },
+  {
+    "Name": "ART 4050.1 - Digital Art III",
+    "Description": "Digital Art III course with 23 enrolled students during Spring 2014 semester. Course designated as Communication Intensive (CI) and Interdisciplinary (ID). Instructor evaluation score: 4.214 (Department average: 4.325).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2014-01-01"
+  },
+  {
+    "Name": "ART 7250.1 - Digital Art Praxis",
+    "Description": "Digital Art Praxis course with 1 enrolled student during Spring 2014 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2014-01-01"
+  },
+  {
+    "Name": "ART 2220.2 - Moving Image",
+    "Description": "Moving Image course with 19 enrolled students during Fall 2013 semester. Course designated as Communication Intensive (CI). Instructor evaluation score: 4.538 (Department average: 4.292).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-09-01"
+  },
+  {
+    "Name": "ART 4020.1 - Interactivity & Art",
+    "Description": "Interactivity & Art course with 14 enrolled students during Fall 2013 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI). Instructor evaluation score: 4.400 (Department average: 4.292).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-09-01"
+  },
+  {
+    "Name": "ART 4030.1 - Digital Art Senior Project",
+    "Description": "Digital Art Senior Project course with 12 enrolled students during Fall 2013 semester. Course designated as Communication Intensive (CI). Instructor evaluation score: 4.800 (Department average: 4.292).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-09-01"
+  },
+  {
+    "Name": "ART 7250.2 - Digital Art Seminar",
+    "Description": "Digital Art Seminar course with 1 enrolled student during Fall 2013 semester. Course designated as Interdisciplinary (ID).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-09-01"
+  },
+  {
+    "Name": "ART 7255.1 - Digital Art Praxis",
+    "Description": "Digital Art Praxis course with 5 enrolled students during Fall 2013 semester. Instructor evaluation score: 5.000 (Department average: 4.292).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-09-01"
+  },
+  {
+    "Name": "ART 8000.7 - Thesis Research",
+    "Description": "Thesis Research supervision with 1 enrolled student during Fall 2013 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-09-01"
+  },
+  {
+    "Name": "ART 4020.4 - Projects in Video",
+    "Description": "Projects in Video course with 7 enrolled students during Summer 2013 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-06-01"
+  },
+  {
+    "Name": "ART 2055.1 - Digital Art II",
+    "Description": "Digital Art II course with 4 enrolled students during Summer 2013 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-06-01"
+  },
+  {
+    "Name": "ART 4030.1 - Digital Art Senior Project",
+    "Description": "Digital Art Senior Project course with 12 enrolled students during Spring 2013 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI). Instructor evaluation score: 4.857 (Department average: 4.404).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-01-01"
+  },
+  {
+    "Name": "ART 4050.1 - Digital Art III",
+    "Description": "Digital Art III course with 1 enrolled student during Spring 2013 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-01-01"
+  },
+  {
+    "Name": "ART 4059.1 / EE 4859.1 - Digital Media Capstone",
+    "Description": "Digital Media Capstone cross-listed course with 7 ART students and 3 EE students during Spring 2013 semester. Course designated as Interdisciplinary (ID). Instructor evaluation score: 4.750 (Department average: 4.403).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-01-01"
+  },
+  {
+    "Name": "ART 4560.1 - Interactive Media for Vis Com",
+    "Description": "Interactive Media for Visual Communication course with 13 enrolled students during Spring 2013 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI). Instructor evaluation score: 4.778 (Department average: 4.471).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-01-01"
+  },
+  {
+    "Name": "ART 7500.1 - Design Graduate Seminar",
+    "Description": "Design Graduate Seminar course with 5 enrolled students during Spring 2013 semester. Instructor evaluation score: 4.750 (Department average: 4.471).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-01-01"
+  },
+  {
+    "Name": "CSC 2700.1 - Intro to Digital Media",
+    "Description": "Introduction to Digital Media course with 20 enrolled students during Spring 2013 semester. Course designated as Interdisciplinary (ID).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2013-01-01"
+  },
+  {
+    "Name": "ART 4020.1 / ART 7042.1 - Art & Activism",
+    "Description": "Art & Activism course with 15 enrolled students during Fall 2012 semester. Course designated as Service Learning (SL) and Communication Intensive (CI). Instructor evaluation scores: 4.222 (4020) and 4.500 (7042) (Department average: 4.396).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-09-01"
+  },
+  {
+    "Name": "ART 4030.1 - Digital Art Senior Project",
+    "Description": "Digital Art Senior Project course with 11 enrolled students during Fall 2012 semester. Course designated as Communication Intensive (CI). Instructor evaluation score: 4.889 (Department average: 4.396).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-09-01"
+  },
+  {
+    "Name": "ART 4030.5 - Independent Study",
+    "Description": "Independent Study course with 1 enrolled student during Fall 2012 semester. Course designated as Communication Intensive (CI). Instructor evaluation score: 5.000 (Department average: 4.396).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-09-01"
+  },
+  {
+    "Name": "ART 4550.1 - Digital Imaging for Vis Com",
+    "Description": "Digital Imaging for Visual Communication course with 1 enrolled student during Fall 2012 semester. Course designated as Interdisciplinary (ID). Instructor evaluation score: 5.000 (Department average: 4.396).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-09-01"
+  },
+  {
+    "Name": "ART 7500.2 - Design Graduate Seminar",
+    "Description": "Design Graduate Seminar course with 1 enrolled student during Fall 2012 semester. Instructor evaluation score: 5.000 (Department average: 4.396).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-09-01"
+  },
+  {
+    "Name": "ART 8000.7 - Thesis Research",
+    "Description": "Thesis Research supervision with 1 enrolled student during Fall 2012 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-09-01"
+  },
+  {
+    "Name": "ART 2055.1 / ART 4055.1 - Digital Art II / Digital Art IV",
+    "Description": "Combined Digital Art II and Digital Art IV course with 13 enrolled students during Summer 2012 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-06-01"
+  },
+  {
+    "Name": "ART 2055.1 - Digital Art II",
+    "Description": "Digital Art II course with 20 enrolled students during Spring 2012 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI). Instructor evaluation score: 4.333 (Department average: 4.395).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-01-01"
+  },
+  {
+    "Name": "ART 4030.1 - Digital Art Senior Project",
+    "Description": "Digital Art Senior Project course with 10 enrolled students during Spring 2012 semester. Course designated as Communication Intensive (CI). Instructor evaluation score: 4.500 (Department average: 4.395).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-01-01"
+  },
+  {
+    "Name": "ART 4560.1 - Interactive Media for Vis Com",
+    "Description": "Interactive Media for Visual Communication course with 20 enrolled students during Spring 2012 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI). Instructor evaluation score: 4.438 (Department average: 4.395).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-01-01"
+  },
+  {
+    "Name": "CSC 2700.1 - Intro to Digital Media",
+    "Description": "Introduction to Digital Media course with 21 enrolled students during Spring 2012 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2012-01-01"
+  },
+  {
+    "Name": "ART 4020.1 - Interactivity & Art",
+    "Description": "Interactivity & Art course with 19 enrolled students during Fall 2011 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI). Instructor evaluation score: 4.750 (Department average: 4.462).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2011-09-01"
+  },
+  {
+    "Name": "ART 4030.5 - Digital Art Senior Project",
+    "Description": "Digital Art Senior Project course with 5 enrolled students during Fall 2011 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2011-09-01"
+  },
+  {
+    "Name": "ART 4050.1 - Digital Art III",
+    "Description": "Digital Art III course with 15 enrolled students during Fall 2011 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI). Instructor evaluation score: 4.143 (Department average: 4.462).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2011-09-01"
+  },
+  {
+    "Name": "ART 4055.2 - Digital Art IV",
+    "Description": "Digital Art IV course with 14 enrolled students during Fall 2011 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI). Instructor evaluation score: 4.556 (Department average: 4.462).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2011-09-01"
+  },
+  {
+    "Name": "ART 2055.1 - Digital Art II",
+    "Description": "Digital Art II course with 15 enrolled students during Summer 2011 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2011-06-01"
+  },
+  {
+    "Name": "ART 4020.3 - Special Topics",
+    "Description": "Special Topics course with 1 enrolled student during Summer 2011 semester. Course designated as Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2011-06-01"
+  },
+  {
+    "Name": "ART 4050.1 - Digital Art III",
+    "Description": "Digital Art III course with 15 enrolled students during Summer 2011 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2011-06-01"
+  },
+  {
+    "Name": "ART 2050.7 - Digital Art I",
+    "Description": "Digital Art I course with 22 enrolled students during Spring 2011 semester. Course designated as Communication Intensive (CI). Instructor evaluation score: 4.368 (Department average: 4.362).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2011-01-01"
+  },
+  {
+    "Name": "ART 2055.2 - Digital Art II",
+    "Description": "Digital Art II course with 24 enrolled students during Spring 2011 semester. Course designated as Interdisciplinary (ID) and Communication Intensive (CI). Instructor evaluation score: 4.500 (Department average: 4.362).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2011-01-01"
+  },
+  {
+    "Name": "ART 4560.2 - Interactive Media for Vis Com",
+    "Description": "Interactive Media for Visual Communication course with 21 enrolled students during Spring 2011 semester. Course designated as Communication Intensive (CI). Instructor evaluation score: 4.562 (Department average: 4.362).",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2011-01-01"
+  },
+  {
+    "Name": "ART 4020.1 - Navigating Digital Narratives",
+    "Description": "Navigating Digital Narratives course with 17 enrolled students during Fall 2010 semester.",
+    "Category": "1.2.1.2 Teaching History",
+    "Role": "Instructor",
+    "Date": "2010-09-01"
+  }
+]
