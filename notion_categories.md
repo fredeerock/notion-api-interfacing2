@@ -161,7 +161,7 @@ Include all authors in order.
 
 #### 1.3.3 Creative & Artistic Contributions
 
-##### 1.3.3.1 Original Creative Works and Presentations
+##### 1.3.3.1 Original Creative Works & Presentations
 - Novels, poetry, plays
 - Musical compositions and performances
 - Exhibitions and visual arts

@@ -1,0 +1,226 @@
+[
+  {
+    "Name": "NSF Research Experience for Undergraduates Student Mentor",
+    "Description": "Student Mentor for NSF Research Experience for Undergraduates program, providing guidance and support to undergraduate research participants.",
+    "Category": "1.4.3 University Service",
+    "Role": "Student Mentor",
+    "Date": "2016-01-01"
+  },
+  {
+    "Name": "LSU School of Art Strategic Plan",
+    "Description": "Co-Author of the LSU School of Art Strategic Plan, contributing to long-term planning and strategic direction for the school.",
+    "Category": "1.4.3 University Service",
+    "Role": "Co-Author",
+    "Date": "2016-01-01"
+  },
+  {
+    "Name": "2016 Digital Art Strategic Plan",
+    "Description": "Author of the 2016 Digital Art Strategic Plan, developing strategic vision and goals for the digital art program.",
+    "Category": "1.4.3 University Service",
+    "Role": "Author",
+    "Date": "2016-01-01"
+  },
+  {
+    "Name": "LSU School of Art Curriculum Committee",
+    "Description": "Chair of the LSU School of Art Curriculum Committee, leading curriculum development and review processes for the school.",
+    "Category": "1.4.3 University Service",
+    "Role": "Chair",
+    "Date": {"start": "2015-01-01", "end": "present"}
+  },
+  {
+    "Name": "LSU School of Art Futures Committee",
+    "Description": "Member of the LSU School of Art Futures Committee, contributing to future planning and strategic initiatives for the school.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2015-01-01", "end": "present"}
+  },
+  {
+    "Name": "Bachelor in Screen Arts Interdisciplinary Degree Program Steering Committee",
+    "Description": "Member of the Bachelor in Screen Arts Interdisciplinary Degree Program Steering Committee at LSU, contributing to program development and oversight.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2014-01-01", "end": "present"}
+  },
+  {
+    "Name": "Digital Media Arts & Engineering Faculty Review Committee",
+    "Description": "Member of the Digital Media Arts & Engineering Faculty Review Committee, participating in faculty evaluation and review processes.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2013-01-01", "end": "present"}
+  },
+  {
+    "Name": "University Moodle Development Advisory Committee",
+    "Description": "Member of the University Moodle Development Advisory Committee at LSU, providing guidance on learning management system development and implementation.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2012-01-01", "end": "present"}
+  },
+  {
+    "Name": "CxC College of Art and Design Advisory Committee",
+    "Description": "Member of the CxC College of Art and Design Advisory Committee at LSU, contributing to college-level strategic planning and initiatives.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2011-01-01", "end": "present"}
+  },
+  {
+    "Name": "Digital Art Student Organization DigitalADA",
+    "Description": "Advisor for the Digital Art Student Organization (DigitalADA) at LSU, providing guidance and support to student organization activities and initiatives.",
+    "Category": "1.4.3 University Service",
+    "Role": "Advisor",
+    "Date": {"start": "2011-01-01", "end": "present"}
+  },
+  {
+    "Name": "Cultural Computing Research Area",
+    "Description": "Member of the Cultural Computing Research Area at LSU CCT, contributing to interdisciplinary research initiatives combining culture and computing.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2011-01-01", "end": "present"}
+  },
+  {
+    "Name": "Media Research Studio",
+    "Description": "Manager of the Media Research Studio at LSU School of Art, overseeing studio operations, equipment, and research activities.",
+    "Category": "1.4.3 University Service",
+    "Role": "Manager",
+    "Date": {"start": "2011-01-01", "end": "present"}
+  },
+  {
+    "Name": "NSF Research Experience for Undergraduates Student Mentor",
+    "Description": "Student Mentor for NSF Research Experience for Undergraduates program, providing guidance and support to undergraduate research participants.",
+    "Category": "1.4.3 University Service",
+    "Role": "Student Mentor",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "2015 Digital Art Strategic Plan",
+    "Description": "Author of the 2015 Digital Art Strategic Plan, developing strategic vision and goals for the digital art program.",
+    "Category": "1.4.3 University Service",
+    "Role": "Author",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "Digital Humanities Initiative - Remapping Antebellum Print Culture",
+    "Description": "Participant in the Digital Humanities Initiative - Remapping Antebellum Print Culture project, collaborating with LSU CCT, English, and Library Sciences departments.",
+    "Category": "1.4.3 University Service",
+    "Role": "Participant",
+    "Date": "2014-01-01"
+  },
+  {
+    "Name": "Director of Academic Technology Services Search Committee",
+    "Description": "Member of the Director of Academic Technology Services Search Committee, participating in the search and selection process for academic technology leadership.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": "2014-01-01"
+  },
+  {
+    "Name": "Computer-Aided Design and Geographic Information Systems (CADGIS) Recommendation Report",
+    "Description": "Contributed to the Computer-Aided Design and Geographic Information Systems (CADGIS) Recommendation Report, providing expertise on technology systems and implementation.",
+    "Category": "1.4.3 University Service",
+    "Role": "Contributor",
+    "Date": "2014-01-01"
+  },
+  {
+    "Name": "Communication Across the Curriculum (CxC) University Advisory Committee",
+    "Description": "Member of the Communication Across the Curriculum (CxC) University Advisory Committee at LSU, contributing to university-wide communication initiatives.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2011-01-01", "end": "2014-12-31"}
+  },
+  {
+    "Name": "College of Art and Design Information Technology Committee",
+    "Description": "Member of the College of Art and Design Information Technology Committee at LSU, contributing to technology planning and implementation for the college.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2011-01-01", "end": "2014-12-31"}
+  },
+  {
+    "Name": "Digital Art Area Head",
+    "Description": "Area Head for Digital Art at LSU School of Art, providing leadership and administrative oversight for the digital art program.",
+    "Category": "1.4.3 University Service",
+    "Role": "Area Head",
+    "Date": {"start": "2012-01-01", "end": "2014-12-31"}
+  },
+  {
+    "Name": "Digital Media Arts & Engineering Application for new Masters of Science Program",
+    "Description": "Co-PI for the Digital Media Arts & Engineering Application for new Masters of Science Program, leading development of new graduate program proposal.",
+    "Category": "1.4.3 University Service",
+    "Role": "Co-PI",
+    "Date": {"start": "2013-01-01", "end": "2014-12-31"}
+  },
+  {
+    "Name": "Digital Media Arts & Engineering Lecture & Screening Series Steering Committee",
+    "Description": "Member of the Digital Media Arts & Engineering Lecture & Screening Series Steering Committee, contributing to programming and event planning.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2013-01-01", "end": "2014-12-31"}
+  },
+  {
+    "Name": "School of Art Foundations Committee",
+    "Description": "Member of the School of Art Foundations Committee at LSU, contributing to foundation curriculum and program development.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2012-01-01", "end": "2013-12-31"}
+  },
+  {
+    "Name": "Art & Technology Lab",
+    "Description": "Founder of the Art & Technology Lab at LSU Center for Computation & Technology, establishing interdisciplinary lab for art and technology research.",
+    "Category": "1.4.3 University Service",
+    "Role": "Founder",
+    "Date": "2013-01-01"
+  },
+  {
+    "Name": "School of Art Digital Art Search Committee",
+    "Description": "Chair of the School of Art Digital Art Search Committee at LSU, leading faculty search and selection process for digital art positions.",
+    "Category": "1.4.3 University Service",
+    "Role": "Chair",
+    "Date": "2013-01-01"
+  },
+  {
+    "Name": "CCT Graphic Designer Search Committee",
+    "Description": "Member of the CCT Graphic Designer Search Committee at LSU, participating in search and selection process for graphic design positions.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": "2013-01-01"
+  },
+  {
+    "Name": "Red Stick International Animation Festival",
+    "Description": "Producer of the Red Stick International Animation Festival at LSU CCT, organizing and managing international animation festival programming.",
+    "Category": "1.4.3 University Service",
+    "Role": "Producer",
+    "Date": {"start": "2011-01-01", "end": "2013-12-31"}
+  },
+  {
+    "Name": "Digital Media Arts & Engineering (DMAE) Master's Program Steering Committee",
+    "Description": "Member of the Digital Media Arts & Engineering (DMAE) Master's Program Steering Committee at LSU CCT, contributing to graduate program development and oversight.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": {"start": "2011-01-01", "end": "2012-12-31"}
+  },
+  {
+    "Name": "Digital Art / Photography Search Committee",
+    "Description": "Member of the Digital Art / Photography Search Committee at LSU School of Art, participating in faculty search and selection process.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": "2012-01-01"
+  },
+  {
+    "Name": "Digital Media Arts & Engineering Director Search Committee",
+    "Description": "Member of the Digital Media Arts & Engineering Director Search Committee at LSU CCT, participating in director search and selection process.",
+    "Category": "1.4.3 University Service",
+    "Role": "Member",
+    "Date": "2012-01-01"
+  },
+  {
+    "Name": "Information Technology Committee Recommendation Report",
+    "Description": "Contributed to the Information Technology Committee Recommendation Report, providing expertise and recommendations on university technology systems and infrastructure.",
+    "Category": "1.4.3 University Service",
+    "Role": "Contributor",
+    "Date": "2012-01-01"
+  },
+  {
+    "Name": "Digital Media Research Studio Construction and Equipment",
+    "Description": "Directed $150K of purchases and construction for Digital Media Research Studio at LSU School of Art / CCT, overseeing facility development and equipment acquisition.",
+    "Category": "1.4.3 University Service",
+    "Role": "Director",
+    "Date": "2012-01-01"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Digital Art and Design Association",
+    "Description": "Faculty Advisor for the Digital Art and Design Association student organization, providing guidance and support for student activities and professional development.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": {"start": "2011-01-01", "end": "2023-12-31"},
+    "Role": "Faculty Advisor"
+  },
+  {
+    "Name": "ACM SIGGRAPH LSU Student Chapter",
+    "Description": "Faculty involvement with the ACM SIGGRAPH LSU Student Chapter, supporting student engagement with professional computer graphics and interactive techniques community.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": {"start": "2016-01-01", "end": "2019-12-31"},
+    "Role": "Faculty Advisor"
+  },
+  {
+    "Name": "Black Artist Initiative",
+    "Description": "Faculty Advisor for the Black Artist Initiative, mentoring students and supporting diversity and inclusion in the arts through programming and community building.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": {"start": "2013-01-01", "end": "2018-12-31"},
+    "Role": "Faculty Advisor"
+  }
+]

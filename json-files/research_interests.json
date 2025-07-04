@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Interactive Installation",
+    "Description": "Research and development in interactive installation art, exploring the intersection of technology, space, and audience engagement.",
+    "Category": "1.3.9 Major Areas of Research Interest"
+  },
+  {
+    "Name": "Internet Art",
+    "Description": "Investigation of digital art practices that utilize internet technologies, web-based platforms, and online communities as creative mediums.",
+    "Category": "1.3.9 Major Areas of Research Interest"
+  },
+  {
+    "Name": "Data Visualization",
+    "Description": "Research in transforming complex data sets into visual representations and interactive experiences for enhanced understanding and artistic expression.",
+    "Category": "1.3.9 Major Areas of Research Interest"
+  },
+  {
+    "Name": "3D Modeling & Animation",
+    "Description": "Advanced research in three-dimensional modeling techniques, animation workflows, and their applications in digital media and creative practice.",
+    "Category": "1.3.9 Major Areas of Research Interest"
+  },
+  {
+    "Name": "Creative Coding",
+    "Description": "Exploration of programming languages and computational methods as tools for artistic creation, generative art, and interactive media development.",
+    "Category": "1.3.9 Major Areas of Research Interest"
+  },
+  {
+    "Name": "Digital Twins",
+    "Description": "Research in creating virtual representations of physical systems and environments, enabling real-time monitoring, simulation, and optimization.",
+    "Category": "1.3.9 Major Areas of Research Interest"
+  },
+  {
+    "Name": "Virtual Production",
+    "Description": "Investigation of real-time filmmaking techniques that combine live-action footage with computer-generated imagery in virtual environments.",
+    "Category": "1.3.9 Major Areas of Research Interest"
+  },
+  {
+    "Name": "AI",
+    "Description": "Research in artificial intelligence applications for creative media, including machine learning, neural networks, and AI-assisted content creation.",
+    "Category": "1.3.9 Major Areas of Research Interest"
+  }
+]

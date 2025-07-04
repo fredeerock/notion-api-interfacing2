@@ -53,8 +53,8 @@ VALID CATEGORIES - Always use one of these exact categories from notion_categori
 - 1.3.1.9 Exhibition Catalogs / Media Coverage / Reviews / Conference Proceedings
 - 1.3.2 Accepted but Unpublished Publications
 - 1.3.3 Creative & Artistic Contributions (For faculty with creative activity obligations)
-- 1.3.3.1 Original Creative Works
-- 1.3.3.2 Performance and Presentation
+- 1.3.3.1 Original Creative Works & Presentations
+- 1.3.3.2 Curation and Event Organization
 - 1.3.4 Participation in Professional Academic Events
 - 1.3.5 Other Scholarly/Creative Contributions
 - 1.3.5.1 Professional Organizations
@@ -100,7 +100,14 @@ VALID CATEGORIES - Always use one of these exact categories from notion_categori
 5. LOCATION FIELD: Use the separate "Location" field only for "City State" format 
    (e.g., "Austin TX", "Los Angeles CA"). Always include full location details in description too.
 
-6. DATE FORMAT: Use YYYY-MM-DD format. If only year is provided, use YYYY-01-01. If no date is provided or mentioned in the source material, simply omit the "Date"
+6. DATE FORMAT: Use YYYY-MM-DD format. If only year is provided, use YYYY-01-01.
+   For date ranges, use an object with "start" and "end" properties:
+   {"start": "2011-01-01", "end": "2023-12-31"}
+   For single dates, use a string: "2023-01-01"
+   For ongoing activities (present, current, ongoing), use "present" as the end date:
+   {"start": "2011-01-01", "end": "present"}
+   The script will automatically convert "present" to today's date.
+   If no date is provided or mentioned in the source material, simply omit the "Date"
    field from the JSON entirely. Don't guess or make up dates.
 
 Example conversion:
@@ -119,6 +126,7 @@ import requests
 import json
 import os
 import sys
+from datetime import datetime
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -251,9 +259,26 @@ def create_notion_page(entry_data):
         }
     
     if "Date" in entry_data:
-        page_data["properties"]["Date"] = {
-            "date": {"start": entry_data["Date"]}
-        }
+        date_data = entry_data["Date"]
+        if isinstance(date_data, dict):
+            # Handle date range with start and end
+            date_prop = {}
+            if "start" in date_data:
+                date_prop["start"] = date_data["start"]
+            if "end" in date_data:
+                end_date = date_data["end"]
+                # Convert "present" or similar terms to today's date
+                if end_date.lower() in ["present", "ongoing", "current", "now"]:
+                    end_date = datetime.now().strftime("%Y-%m-%d")
+                date_prop["end"] = end_date
+            page_data["properties"]["Date"] = {
+                "date": date_prop
+            }
+        else:
+            # Handle single date (string format)
+            page_data["properties"]["Date"] = {
+                "date": {"start": date_data}
+            }
     
     if "URL" in entry_data:
         page_data["properties"]["URL"] = {

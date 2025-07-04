@@ -1,0 +1,59 @@
+[
+  {
+    "Name": "Women in Computer Science Game Jam",
+    "Description": "Judge for the Women in Computer Science Game Jam, evaluating student game development projects and providing feedback on technical and creative aspects.",
+    "Category": "1.4.4 Professional Service",
+    "Role": "Judge",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "LSU Summer Undergraduate Research Forum",
+    "Description": "Judge for the LSU Summer Undergraduate Research Forum, evaluating undergraduate research presentations and providing feedback on research methodology and presentation quality.",
+    "Category": "1.4.4 Professional Service",
+    "Role": "Judge",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "Stetson Digital Media Festival",
+    "Description": "Judge for the Stetson Digital Media Festival, evaluating digital media works and providing expert assessment of creative and technical achievements.",
+    "Category": "1.4.4 Professional Service",
+    "Role": "Judge",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "Baton Rouge Arts Council Decentralized Arts Funding",
+    "Description": "Judge for the Baton Rouge Arts Council Decentralized Arts Funding program, evaluating arts funding applications and making recommendations for grant awards.",
+    "Category": "1.4.4 Professional Service",
+    "Role": "Judge",
+    "Date": "2015-01-01",
+    "Location": "Baton Rouge LA"
+  },
+  {
+    "Name": "ITT Tech - Digital Media Capstone Projects",
+    "Description": "Judge for ITT Tech Digital Media Capstone Projects, evaluating student capstone projects and providing professional assessment of technical and creative work.",
+    "Category": "1.4.4 Professional Service",
+    "Role": "Judge",
+    "Date": "2013-01-01"
+  },
+  {
+    "Name": "George Rodrique Digital Art Competition",
+    "Description": "Judge for the George Rodrique Digital Art Competition, evaluating digital art submissions and providing expert assessment of artistic merit and technical execution.",
+    "Category": "1.4.4 Professional Service",
+    "Role": "Judge",
+    "Date": "2012-01-01"
+  },
+  {
+    "Name": "CxC Digital Media Festival Student Presentations",
+    "Description": "Judge for CxC Digital Media Festival Student Presentations, evaluating student presentation quality and providing feedback on digital media projects and research.",
+    "Category": "1.4.4 Professional Service",
+    "Role": "Judge",
+    "Date": "2012-01-01"
+  },
+  {
+    "Name": "CxC Digital Media Festival Video Contest",
+    "Description": "Judge for CxC Digital Media Festival Video Contest, evaluating video submissions and providing expert assessment of video production quality and creative content.",
+    "Category": "1.4.4 Professional Service",
+    "Role": "Judge",
+    "Date": "2012-01-01"
+  }
+]

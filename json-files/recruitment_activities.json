@@ -1,0 +1,104 @@
+[
+  {
+    "Name": "LSU Digital Art Website and Social Media Maintenance",
+    "Description": "Ongoing maintenance of LSU Digital Art online presence including website and social media platforms for student and faculty recruitment. Platforms include Instagram (@lsudigitalart), official program website, Facebook group, Vimeo channel, and Tumblr blog.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": {"start": "2012-01-01"},
+    "Role": "Website/Social Media Manager",
+    "URL": "https://instagram.com/lsudigitalart"
+  },
+  {
+    "Name": "Prospective Student Tours and School Group Visits",
+    "Description": "Ongoing tours for prospective undergraduate and graduate students, as well as school groups interested in the Digital Art program.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": {"start": "2012-01-01"},
+    "Role": "Tour Guide/Presenter"
+  },
+  {
+    "Name": "Digital Art BFA and MFA Selective Admissions Oversight",
+    "Description": "Ongoing oversight of selective admissions process for Digital Art BFA and MFA programs, reviewing applications and portfolios.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": {"start": "2012-01-01"},
+    "Role": "Admissions Committee Member"
+  },
+  {
+    "Name": "St. Joseph Academy Student Mentor",
+    "Description": "Mentoring program for students from St. Joseph Academy, providing guidance on digital arts education and career paths.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2016-01-01",
+    "Role": "Student Mentor"
+  },
+  {
+    "Name": "LSU College of Art & Design Accepted Student Preview Day - Digital Media at LSU",
+    "Description": "Presenter at LSU College of Art & Design Accepted Student Preview Day, showcasing Digital Media programs and opportunities at LSU.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2016-01-01",
+    "Role": "Presenter"
+  },
+  {
+    "Name": "CampQuest Tour",
+    "Description": "Presenter for CampQuest tour, introducing participants to digital art and media programs.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2015-01-01",
+    "Role": "Presenter"
+  },
+  {
+    "Name": "LSU School of Art Open House - Digital Art",
+    "Description": "Digital Art presenter at LSU School of Art Open House, showcasing program offerings to prospective students.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2015-01-01",
+    "Role": "Digital Art Presenter"
+  },
+  {
+    "Name": "LSU College of Art & Design Accepted Student Preview Day - Digital Media at LSU",
+    "Description": "Presenter at LSU College of Art & Design Accepted Student Preview Day, showcasing Digital Media programs and opportunities at LSU.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2015-01-01",
+    "Role": "Presenter"
+  },
+  {
+    "Name": "LSU Digital Art Catalog Development",
+    "Description": "Developed content and collaborated on design with SoA Graphic Design Student Office for LSU Digital Art Catalog recruitment materials.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2015-01-01",
+    "Role": "Content Developer"
+  },
+  {
+    "Name": "Broadmoor High School Digital Media Tour",
+    "Description": "Organizer for Broadmoor High School Digital Media Tour at LSU School of Art & Center for Computation & Technology.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2013-01-01",
+    "Role": "Organizer"
+  },
+  {
+    "Name": "Patrick Taylor High School Digital Media Tour",
+    "Description": "Presenter for Patrick Taylor High School Digital Media Tour at LSU Center for Computation & Technology.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2013-01-01",
+    "Role": "Presenter"
+  },
+  {
+    "Name": "Digital Art Showcase - LSU Tailgating with the Dean",
+    "Description": "Organizer for Digital Art Showcase at LSU Tailgating with the Dean event in Baton Rouge, LA, promoting the digital art program.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2013-01-01",
+    "Role": "Organizer",
+    "Location": "Baton Rouge LA"
+  },
+  {
+    "Name": "LSU Digital Art Website Original Content",
+    "Description": "Wrote original copy for the LSU Digital Art Website to enhance recruitment and program visibility.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2012-01-01",
+    "Role": "Content Writer",
+    "URL": "http://design.lsu.edu/art/programs/digital-art/"
+  },
+  {
+    "Name": "Digital Art Student Work Showcase Website",
+    "Description": "Developed a dedicated website to showcase Digital Art Student Work, enhancing program visibility and recruitment efforts.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Date": "2012-01-01",
+    "Role": "Website Developer",
+    "URL": "http://digitalplusart.tumblr.com"
+  }
+]

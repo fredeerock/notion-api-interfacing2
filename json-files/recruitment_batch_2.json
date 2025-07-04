@@ -1,0 +1,108 @@
+[
+  {
+    "Name": "LSU Digital Art Website and Social Media Maintenance",
+    "Description": "Maintain LSU Digital Art Website and Social Media across multiple platforms including Instagram, Facebook, Vimeo, and Tumblr to promote digital art programs and engage with prospective students. Platforms include https://instagram.com/lsudigitalart, http://design.lsu.edu/art/programs/digital-art/, facebook.com/groups/digitalada, vimeo.com/lsudigitalart, and lsudigitalart.tumblr.com.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Website and Social Media Manager",
+    "Date": {"start": "2012-01-01", "end": "present"},
+    "URL": "https://instagram.com/lsudigitalart"
+  },
+  {
+    "Name": "Prospective Student Tours",
+    "Description": "Tour prospective undergraduate, graduate students, and school groups to showcase digital art facilities and programs at LSU.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Tour Guide",
+    "Date": {"start": "2012-01-01", "end": "present"}
+  },
+  {
+    "Name": "Digital Art BFA and MFA Selective Admissions Oversight",
+    "Description": "Oversee selective admissions process for Digital art BFA and MFA programs, including application review and candidate evaluation.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Admissions Coordinator",
+    "Date": {"start": "2012-01-01", "end": "present"}
+  },
+  {
+    "Name": "St. Joseph Academy Student Mentor",
+    "Description": "Student mentor providing guidance and support to students from St. Joseph Academy.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Student Mentor",
+    "Date": "2016-01-01"
+  },
+  {
+    "Name": "LSU College of Art & Design Accepted Student Preview Day",
+    "Description": "Presenter for Digital Media at LSU during the College of Art & Design Accepted Student Preview Day, showcasing digital art programs to prospective students.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Presenter",
+    "Date": "2016-01-01",
+    "Location": "Baton Rouge LA"
+  },
+  {
+    "Name": "CampQuest Tour",
+    "Description": "Presenter for CampQuest Tour, introducing digital art programs and facilities to visiting participants.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Presenter",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "LSU School of Art Open House",
+    "Description": "Digital Art Presenter at LSU School of Art Open House, demonstrating digital art programs and technologies to prospective students and families.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Digital Art Presenter",
+    "Date": "2015-01-01",
+    "Location": "Baton Rouge LA"
+  },
+  {
+    "Name": "LSU College of Art & Design Accepted Student Preview Day",
+    "Description": "Presenter for Digital Media at LSU during the College of Art & Design Accepted Student Preview Day, showcasing digital art programs to accepted students.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Presenter",
+    "Date": "2015-01-01",
+    "Location": "Baton Rouge LA"
+  },
+  {
+    "Name": "LSU Digital Art Catalog Development",
+    "Description": "Developed content and helped with design for the LSU Digital Art Catalog in collaboration with School of Art Graphic Design Student Office.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Content Developer",
+    "Date": "2015-01-01"
+  },
+  {
+    "Name": "Broadmoar High School Digital Media Tour",
+    "Description": "Organizer for Broadmoar High School Digital Media Tour at LSU School of Art & Center for Computation & Technology, facilitating educational outreach to high school students.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Organizer",
+    "Date": "2013-01-01",
+    "Location": "Baton Rouge LA"
+  },
+  {
+    "Name": "Patrick Taylor High School Digital Media Tour",
+    "Description": "Presenter for Patrick Taylor High School Digital Media Tour at LSU Center for Computation & Technology, showcasing digital art programs to high school students.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Presenter",
+    "Date": "2013-01-01",
+    "Location": "Baton Rouge LA"
+  },
+  {
+    "Name": "Digital Art Showcase at LSU Tailgating with the Dean",
+    "Description": "Organizer for Digital Art Showcase during LSU Tailgating with the Dean event, promoting digital art programs to university community and visitors in Baton Rouge, LA.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Organizer",
+    "Date": "2013-01-01",
+    "Location": "Baton Rouge LA"
+  },
+  {
+    "Name": "LSU Digital Art Website Content Creation",
+    "Description": "Wrote original copy for the LSU Digital Art Website to promote digital art programs and provide information to prospective students.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Content Writer",
+    "Date": "2012-01-01"
+  },
+  {
+    "Name": "Digital Art Student Work Showcase Website",
+    "Description": "Developed a website to showcase Digital Art Student Work at http://digitalplusart.tumblr.com, providing a platform for student portfolio display and program promotion.",
+    "Category": "1.4.2 Student Organizations and Recruitment",
+    "Role": "Website Developer",
+    "Date": "2012-01-01",
+    "URL": "http://digitalplusart.tumblr.com"
+  }
+]
