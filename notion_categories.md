@@ -2,7 +2,13 @@
 *To accompany the LSU System Promotion/Tenure Review Request form, in specified order.*
 
 ### 1.1 History of Assignments  
-- A report by the department chair detailing teaching, scholarship, and service assignments.
+- Teaching, scholarship, and service assignments.
+
+### 1.1.1 Education
+- Past degrees awarded
+
+### 1.1.2 Employment History
+- Past employment
 
 ### 1.2 Teaching  
 

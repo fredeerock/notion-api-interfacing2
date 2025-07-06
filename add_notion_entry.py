@@ -18,6 +18,8 @@ VALID CATEGORIES - Always use one of these exact categories from notion_categori
 (Note: If your category contains commas, they will be automatically replaced with slashes)
 - 1. Documentation
 - 1.1 History of Assignments
+- 1.1.1 Education
+- 1.1.2 Employment History
 - 1.2 Teaching
 - 1.2.1 Documentation of Teaching Activities
 - 1.2.1.1 Teaching Evaluations

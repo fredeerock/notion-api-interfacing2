@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "MFA in Digital + Media",
+    "Description": "Master of Fine Arts in Digital + Media from Rhode Island School of Design, Providence, RI. Graduated with Honors.",
+    "Category": "1.1.1 Education",
+    "Location": "Providence RI",
+    "Role": "Graduate Student",
+    "Date": {"start": "2008-01-01", "end": "2010-12-31"}
+  },
+  {
+    "Name": "Brown University Sheridan Center Collegiate Teaching Certificate",
+    "Description": "Sheridan Center Collegiate Teaching Certificate with Computer Science Coursework from Brown University, Providence, RI.",
+    "Category": "1.1.1 Education",
+    "Location": "Providence RI",
+    "Role": "Certificate Student",
+    "Date": "2009-01-01"
+  },
+  {
+    "Name": "New York University Documentary Filmmaking Coursework",
+    "Description": "Coursework in Documentary Filmmaking at Tisch School of the Arts, New York University, New York, NY.",
+    "Category": "1.1.1 Education",
+    "Location": "New York NY",
+    "Role": "Student",
+    "Date": "2007-01-01"
+  },
+  {
+    "Name": "BA in Digital Arts with Minor in Studio Art",
+    "Description": "Bachelor of Arts in Digital Arts with a Minor in Studio Art from Stetson University, Deland, FL. Dean's List recognition.",
+    "Category": "1.1.1 Education",
+    "Location": "Deland FL",
+    "Role": "Undergraduate Student",
+    "Date": {"start": "2004-01-01", "end": "2008-12-31"}
+  }
+]
